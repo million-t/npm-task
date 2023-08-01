@@ -50,3 +50,5 @@ console.log(bound('!')) //what exactly does this do?
 
 let anotherBound = lodash.bindKey(the_other_man, 'greet', lodash, '!!!')
 console.log(anotherBound('h000la'))
+
+
