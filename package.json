@@ -1,0 +1,22 @@
+{
+  "name": "npm-task",
+  "version": "1.0.0",
+  "description": "utilizing npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/million-t/npm-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/million-t/npm-task/issues"
+  },
+  "homepage": "https://github.com/million-t/npm-task#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
